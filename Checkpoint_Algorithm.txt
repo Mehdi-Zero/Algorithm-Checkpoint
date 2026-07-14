@@ -1,0 +1,39 @@
+Start ⬇
+ 
+⬇Variables {
+    Letters, voyels, words
+ }
+⬇Input {
+    
+    Lenght = 19
+    Words = 3
+    Voyels = 8
+
+}
+⬇Process {
+
+    count Voyels ;
+    count Words ;
+    Count Charachters;
+
+
+    Read "GOOD"
+    read "MORNING"
+    Read "EVERYONE"
+
+}
+⬇Decision {
+    if { 
+        Error = repeat 
+    if else = No-repeat 
+
+    }
+}
+⬇Output {
+        Read : "GOOD MORNING EVERYONE."
+
+    }
+End-if  {
+    >True
+}
+
